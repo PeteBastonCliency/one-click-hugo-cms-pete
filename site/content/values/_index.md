@@ -13,7 +13,7 @@ values:
       report pg 21) The impact of creating a warmer and more engaging way to
       learn reading will help increase learners confidence and their future
       opportunities.
-    imageUrl: /img/about-shade-grown.jpg
+    imageUrl: img/reading-children.png
   - heading: Personalised learning
     text: >+
       Personalised learning is important to achieve the best possible progress,
@@ -23,7 +23,7 @@ values:
 
       Children with Dyslexia benefit from the ‘little and often’ practice of reading. (Rose report UK pg 14)( footer 10 “Phonological skills” consist of identifying and manipulating the sounds in words. An example of having or developing phonological skills is understanding that if the p in pat is changed to an s, the word obtained will be sat. 11 Singleton (2009). 12 Brooks (2007) pp 31 and 32.)
 
-    imageUrl: /img/about-single-origin.jpg
+    imageUrl: img/personalised-learning.png
   - heading: Resources
     text: >+
       British Journal of Educational Psychology, 75, 171-188 Singleton, C. H.
@@ -38,19 +38,12 @@ values:
 
       Identifying and Teaching Children and Young People with Dyslexia and Literacy Difficulties An independent report from Sir Jim Rose to the Secretary of State for Children, Schools and Families June 2009
 
-    imageUrl: /img/about-sustainable-farming.jpg
-  - heading: Direct sourcing
-    text: >
-      We want to truly empower the communities that bring amazing coffee to you.
-      That’s why we reinvest 20% of our profits into farms, local businesses and
-      schools everywhere our coffee is grown. You can see the communities grow
-      and learn more about coffee farming on our blog.
+    imageUrl: img/resources.png
+  - heading: n.a
+    text: n.a
     imageUrl: /img/about-direct-sourcing.jpg
-  - heading: Reinvest profits
-    text: >
-      We want to truly empower the communities that bring amazing coffee to you.
-      That’s why we reinvest 20% of our profits into farms, local businesses and
-      schools everywhere our coffee is grown. You can see the communities grow
-      and learn more about coffee farming on our blog.
+  - heading: n.a
+    text: |
+      n.a
     imageUrl: /img/about-reinvest-profits.jpg
 ---
