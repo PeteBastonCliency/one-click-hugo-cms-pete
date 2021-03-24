@@ -14,12 +14,12 @@ intro:
         A feature to listen along whilst reading. This feature will help with
         understanding how to pronounce new words. It will also help with audio
         and visual learning.
-    - image: /img/illustrations-tutorials.svg
+    - image: img/comprehension.png
       text: >
         Comprehension surveys through the app. This will help to understand what
         the child has learnt from the story and will help to make learning more
         interactive.
-    - image: /img/illustrations-meeting-space.svg
+    - image: img/pie-chart.png
       text: >
         A portal for teachers and parents which helps to understand how much has
         been read by the student, their answers to the surveys, what and how
