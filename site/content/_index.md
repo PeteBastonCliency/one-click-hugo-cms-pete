@@ -4,16 +4,45 @@ subtitle: N.A
 image: img/read-learn-enjoy-2.png
 blurb:
   heading: Your Stories
-  text: Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  text: >
+    Read, Learn Enjoy
+
+
+    Read:
+
+    A range of books that are interested and age-appropriate. 
+
+    One line at a time, with play and pause functionality, can be adjusted to your individual needs. 
+
+    Using accessible fonts and pictures to explain the words. 
+
+    Book series in multiple languages, including English and Spanish.
+
+
+    Learn:
+
+    How to read from level X to Y
+
+    By answering questions about the book and testing your knowledge
+
+    Keep a record of your progress (how many books you have read, what functions you used to help)
+
+
+    Enjoy:
+
+    It helps you to choose books according to choices given
+
+    Interactive reading
+
+    An exciting look app with features to help
+
+    Rewards for reading and using the app
 intro:
-  heading: What we offer
-  text: Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  heading: About Your Stories
+  text: Yourstories is developing a specialist Dyslexia app with the end of Key
+    stage 1 and Key Stage to the material. We are excited to share with you our
+    app, more about us, how to get involved and evidence for the creation of
+    this app.
 products:
   - image: img/illustrations-coffee.svg
     text: We sell green and roasted coffee beans that are sourced directly from
@@ -28,8 +57,13 @@ products:
       fall in love with in our shop.
 values:
   heading: Our values
-  text: Coffee is an amazing part of human culture but it has a dark side too –
-    one of colonialism and mindless abuse of natural resources and human lives.
-    We want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+  text: >-
+    1) We are passionate about making reading engaging with pupil focused text.
+    Text meeting their reading age with age-appropriate topics.
+
+
+    2) Promote reading little and often
+
+
+    3) To increase confidence in reading
 ---
