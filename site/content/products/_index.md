@@ -24,7 +24,7 @@ intro:
         A portal for teachers and parents which helps to understand how much has
         been read by the student, their answers to the surveys, what and how
         often they use the supportive features.
-  heading: The features on our app
+  heading: The features of our app
   description: >-
     
     Our features will help to engage students with reading and help support their journey to independent reading. Let's explore four of the features we will offer below:
